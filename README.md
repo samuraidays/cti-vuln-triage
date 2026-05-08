@@ -1,4 +1,4 @@
-# CTI vulntriage
+# CTI vuln triage
 CISA KEV情報と資産リストをマッチングし、脆弱性トリアージを行う
 
 ## デプロイ
